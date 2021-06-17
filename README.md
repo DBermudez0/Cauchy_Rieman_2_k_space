@@ -1,5 +1,5 @@
 # Cauchy_Rieman_2_k_space
-Just playing around with some mathematical definition in image k-space to see what it gives (probably nothing important)
+Just playing around with some mathematical definition in image k-space to see what it gives (probably nothing important/failed applied mathematical experiment)
 
 <img width="533" alt="whole_vector_representation_of_k_space" src="https://user-images.githubusercontent.com/34778425/122464724-2b5c4780-cf85-11eb-8126-638a18ddbef3.png">
 
