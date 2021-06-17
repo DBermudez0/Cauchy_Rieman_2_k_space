@@ -11,9 +11,11 @@ Just playing around with some mathematical definition in image k-space to see wh
 
 ![complex_derivative](https://user-images.githubusercontent.com/34778425/122466259-141e5980-cf87-11eb-9792-44266c2c45a0.JPG)
 
+<h2> Imaged obtained after taking fft of original image, differentiating k-space of the image using the equation above, then ifft the differenctiates k-space </h2>
 <img width="533" alt="Screen Shot 2021-06-17 at 4 06 52 PM" src="https://user-images.githubusercontent.com/34778425/122465419-13d18e80-cf86-11eb-9b07-397ba3884f09.png">
 
 ![real_derivative](https://user-images.githubusercontent.com/34778425/122466290-1f718500-cf87-11eb-9bbd-0a767a66e7e6.JPG)
 
+<h2> Imaged obtained after taking fft of original image, differentiating k-space of the image using the equation above, then ifft the differenctiates k-space </h2>
 
 <img width="533" alt="ifft_of_real_derivative_definition" src="https://user-images.githubusercontent.com/34778425/122465544-38c60180-cf86-11eb-8a85-76c7ebc848d4.png">
